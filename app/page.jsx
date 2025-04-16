@@ -4,7 +4,7 @@ import PopularNow from '@/components/PopularNow';
 export default function Home() {
   return (
     <>
-      <h1 className="m-32 text-brand-highlight">
+      <h1 className="m-32 text-brand-highlight text-6xl font-bold">
         Hallo Klasse ich bin die startseite
       </h1>
       <Herosection />
